@@ -1,0 +1,1 @@
+# wsaddon-fasterloot
